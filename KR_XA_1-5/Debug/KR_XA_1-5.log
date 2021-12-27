@@ -1,0 +1,5 @@
+﻿  KR_XA_1-5.cpp
+F:\Project\VS\KR_XA_1-5\KR_XA_1-5\KR_XA_1-5.cpp(59,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\Project\VS\KR_XA_1-5\KR_XA_1-5\KR_XA_1-5.cpp(119,21): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Project\VS\KR_XA_1-5\KR_XA_1-5\KR_XA_1-5.cpp(120,22): warning C4018: <: несоответствие типов со знаком и без знака
+  KR_XA_1-5.vcxproj -> F:\Project\VS\KR_XA_1-5\Debug\KR_XA_1-5.exe
